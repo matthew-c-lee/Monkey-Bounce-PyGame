@@ -1,4 +1,4 @@
-# Program-09-Expained
+# Monkey Bounce Game
 
 # make screen bigger (5)
 This was done by changing the values in "pygame.display.set_mode()" to (1280, 720), increasing it to a 720p resolution.
